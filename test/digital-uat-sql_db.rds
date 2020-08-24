@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="digital-uat-sql_db">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=digital-uat-sql.database.windows.net;Initial Catalog=ccp-uat-appdata</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>d8f61843-30db-4cff-b4c1-9f41c3b24927</DataSourceID>
+</RptDataSource>

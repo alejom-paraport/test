@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Digital.DQ.Reports", "test\Digital.DQ.Reports.rptproj", "{586BC3ED-3676-491A-BD78-189D5E5CB539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{586BC3ED-3676-491A-BD78-189D5E5CB539}.Debug|Default.ActiveCfg = Debug
+		{586BC3ED-3676-491A-BD78-189D5E5CB539}.Debug|Default.Build.0 = Debug
+		{586BC3ED-3676-491A-BD78-189D5E5CB539}.Debug|Default.Deploy.0 = Debug
+		{586BC3ED-3676-491A-BD78-189D5E5CB539}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{586BC3ED-3676-491A-BD78-189D5E5CB539}.DebugLocal|Default.Build.0 = DebugLocal
+		{586BC3ED-3676-491A-BD78-189D5E5CB539}.Release|Default.ActiveCfg = Release
+		{586BC3ED-3676-491A-BD78-189D5E5CB539}.Release|Default.Build.0 = Release
+		{586BC3ED-3676-491A-BD78-189D5E5CB539}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {855F4723-D027-4036-8D50-FBD4E1DFD1CE}
+	EndGlobalSection
+EndGlobal
